@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F88F29BF-288E-44E2-B8BF-A46D19F167C0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PoppyDroppyLocky</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>22DE752E-F653-48A9-9537-7C47F0BDDD74</key>
+		<string>ssh://github.com/madavik/poppydroppylocky.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PoppyDroppyLocky.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>22DE752E-F653-48A9-9537-7C47F0BDDD74</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/madavik/poppydroppylocky.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>22DE752E-F653-48A9-9537-7C47F0BDDD74</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>22DE752E-F653-48A9-9537-7C47F0BDDD74</string>
+			<key>IDESourceControlWCCName</key>
+			<string>poppydroppylocky</string>
+		</dict>
+	</array>
+</dict>
+</plist>
